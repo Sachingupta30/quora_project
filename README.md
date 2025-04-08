@@ -42,16 +42,6 @@
 <img width="1440" alt="postQues-ui" src="https://github.com/user-attachments/assets/7644d3f4-9b99-4cc2-88e3-1d154234fc37" />
 <img width="1440" alt="showAns-ui" src="https://github.com/user-attachments/assets/6a5770d3-f9df-411b-b6be-d8c709e12cce" />
 
-
----
-### 🙋‍♂️ Future Improvements
-
-- Add profile pictures and bios
-- Enable editing/deleting questions and answers
-- Add search functionality
-- Use Django class-based views
-- Enhance UI with Bootstrap or Tailwind
-
 ---
 
 ### 👨‍💻 Author
