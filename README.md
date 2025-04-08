@@ -2,8 +2,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/quora-clone.git
-   cd quora-clone
+   git clone https://github.com/Sachingupta30/quora_project.git
+   cd quora_project
    ```
 
 2. **Create Virtual Environment**
